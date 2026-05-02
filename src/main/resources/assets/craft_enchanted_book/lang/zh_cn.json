@@ -1,0 +1,20 @@
+{
+  "item.craft_enchanted_book.quill_basic": "普通羽毛笔",
+  "item.craft_enchanted_book.quill_advanced": "高级羽毛笔",
+  "item.craft_enchanted_book.quill_master": "大师羽毛笔",
+  "craft_enchanted_book.drawing.title_basic": "绘制区域 (普通)",
+  "craft_enchanted_book.drawing.title_advanced": "绘制区域 (高级)",
+  "craft_enchanted_book.drawing.title_master": "绘制区域 (大师)",
+  "craft_enchanted_book.drawing.instruction": "左键绘制，右键擦除",
+  "craft_enchanted_book.drawing.confirm": "确定",
+  "craft_enchanted_book.drawing.clear": "清空",
+  "craft_enchanted_book.drawing.example_title": "附魔图案示例",
+  "craft_enchanted_book.drawing.example_instruction": "参照右侧图案绘制",
+  "craft_enchanted_book.drawing.prev_page": "上一页",
+  "craft_enchanted_book.drawing.next_page": "下一页",
+  "craft_enchanted_book.message.success_single": "§a成功制作附魔书！",
+  "craft_enchanted_book.message.success_multiple": "§a成功制作附魔书！已掉落在地面上。",
+  "craft_enchanted_book.message.failure": "§c绘制失败！图案不匹配，已失去一本书。",
+  "craft_enchanted_book.message.no_book": "§c你的副手必须持有书！",
+  "craft_enchanted_book.message.invalid_enchantment": "§c附魔不存在！"
+}

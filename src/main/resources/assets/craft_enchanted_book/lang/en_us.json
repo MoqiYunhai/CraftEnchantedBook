@@ -1,0 +1,20 @@
+{
+  "item.craft_enchanted_book.quill_basic": "Basic Quill",
+  "item.craft_enchanted_book.quill_advanced": "Advanced Quill",
+  "item.craft_enchanted_book.quill_master": "Master Quill",
+  "craft_enchanted_book.drawing.title_basic": "Drawing Area (Basic)",
+  "craft_enchanted_book.drawing.title_advanced": "Drawing Area (Advanced)",
+  "craft_enchanted_book.drawing.title_master": "Drawing Area (Master)",
+  "craft_enchanted_book.drawing.instruction": "Left-click to draw, Right-click to erase",
+  "craft_enchanted_book.drawing.confirm": "Confirm",
+  "craft_enchanted_book.drawing.clear": "Clear",
+  "craft_enchanted_book.drawing.example_title": "Pattern Examples",
+  "craft_enchanted_book.drawing.example_instruction": "Follow the pattern on the right",
+  "craft_enchanted_book.drawing.prev_page": "Prev",
+  "craft_enchanted_book.drawing.next_page": "Next",
+  "craft_enchanted_book.message.success_single": "§aSuccessfully created enchanted book!",
+  "craft_enchanted_book.message.success_multiple": "§aSuccessfully created enchanted book! Dropped on the ground.",
+  "craft_enchanted_book.message.failure": "§cDrawing failed! Pattern doesn't match. You lost a book.",
+  "craft_enchanted_book.message.no_book": "§cYou must hold a book in your off-hand!",
+  "craft_enchanted_book.message.invalid_enchantment": "§cEnchantment does not exist!"
+}
